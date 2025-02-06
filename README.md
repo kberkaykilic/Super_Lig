@@ -18,5 +18,3 @@ This project generates fixtures for the Turkish Super Lig teams, ensuring that e
 1. The teams are **randomly shuffled**.
 2. A **fixture** is generated for each week of the season, with two teams playing against each other.
 3. The program ensures that **no team plays against another more than once**, while also ensuring **no teams are left out**.
-
----
