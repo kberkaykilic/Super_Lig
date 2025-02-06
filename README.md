@@ -20,12 +20,3 @@ This project generates fixtures for the Turkish Super Lig teams, ensuring that e
 3. The program ensures that **no team plays against another more than once**, while also ensuring **no teams are left out**.
 
 ---
-
-## Setup
-
-Clone the repository and run the script:
-
-```bash
-git clone <repository-url>
-cd <repository-directory>
-python fixture_generator.py
